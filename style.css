@@ -20,7 +20,9 @@ nav > a {
   background-color: purple;
 }
 
-
+img {
+  background-color: red;
+}
 
 #details div {
   display: block;
